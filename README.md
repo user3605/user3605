@@ -1,6 +1,6 @@
 # 👋 你好！/Hi!/¡Hola!
 ## About me
-- 👨‍🎓 An undergraduate student at DLUT(Dalian University of Technology) studying Software Engineering
+- 👨‍🎓 A graduate student studying Computer Science
 - 🙋‍♂️ *[My Homepage](https://user3605.github.io)*
 <!--
 **YingqiLiu3/YingqiLiu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
